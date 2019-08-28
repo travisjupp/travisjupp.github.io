@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 nav ul, footer ul, a .current-page {
-    text-decoration: overline;
+    /*text-decoration: overline;*/
     text-decoration-color: #D23013;
     color: #8D8D8D;
 }
