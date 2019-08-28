@@ -20,26 +20,37 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/travisjupp/Documents/Websites/_WebDev/Site-Hungeractionla/Web App/foodDrop/Assets/prototype/trans-gradient.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1017,
-				"line_ending": "Windows"
+				"buffer_size": 717,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/index.html",
+			"settings":
+			{
+				"buffer_size": 718,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/index.html",
+			"settings":
+			{
+				"buffer_size": 717,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 672,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/travisjupp/.hammerspoon/init.lua",
-			"settings":
-			{
-				"buffer_size": 304,
+				"buffer_size": 728,
 				"line_ending": "Unix"
 			}
 		}
@@ -52,7 +63,7 @@
 	"command_palette":
 	{
 		"height": 247.0,
-		"last_filter": "instp",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -146,11 +157,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/travisjupp/Documents/Repos/travisjupp.github.io",
-		"/Users/travisjupp/Documents/Repos/travisjupp.github.io/css"
+		"/Users/travisjupp/Documents/GitHub/travisjupp.github.io",
+		"/Users/travisjupp/Documents/GitHub/travisjupp.github.io/about",
+		"/Users/travisjupp/Documents/GitHub/travisjupp.github.io/blog"
 	],
 	"file_history":
 	[
+		"/Users/travisjupp/.hammerspoon/init.lua",
+		"/Users/travisjupp/Documents/Websites/_WebDev/Site-Hungeractionla/Web App/foodDrop/Assets/prototype/trans-gradient.css",
 		"/Users/travisjupp/Downloads/Torrents/Rebirth Complete/Untitled Folder/Rebirth.nfo",
 		"/Users/travisjupp/Desktop/Old Firefox Data/nh6xeclg.Dzelopr/sessionstore.js",
 		"/Users/travisjupp/Documents/Repos/travisjupp.github.io/README.md",
@@ -163,7 +177,6 @@
 		"/Users/travisjupp/Documents/Repos/FoodDropOrg/frontend/src/App.css",
 		"/Users/travisjupp/Documents/Repos/gists/assets.css",
 		"/Users/travisjupp/Documents/Repos/gists/index.html",
-		"/Users/travisjupp/.hammerspoon/init.lua",
 		"/Users/travisjupp/Documents/Repos/FoodDropOrg/frontend/package.json",
 		"/Users/travisjupp/Documents/Websites/_WebDev/Site-Hungeractionla/Web App/foodDrop/Assets/prototype/FD-login.css",
 		"/Users/travisjupp/Documents/Repos/FoodDropOrg/frontend/src/App.js",
@@ -200,7 +213,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -283,224 +296,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/travisjupp/Documents/Websites/_WebDev/Site-Hungeractionla/Web App/foodDrop/Assets/prototype/trans-gradient.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1017,
+						"buffer_size": 717,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								795,
-								795
+								380,
+								380
 							]
 						],
 						"settings":
 						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1015,
-										1016
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										24,
-										25
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
+							"SL.127.region_keys":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
 							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Mac Classic (SL).tmTheme",
+							"auto_complete": false,
 							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/main.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 672,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Mac Classic (SL).tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"markdonw_live_preview_last_run": 1566962942.86,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -516,100 +335,71 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "/Users/travisjupp/.hammerspoon/init.lua",
+					"buffer": 1,
+					"file": "about/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 304,
+						"buffer_size": 718,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								461,
+								461
 							]
 						],
 						"settings":
 						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"markdonw_live_preview_last_run": 1566963411.1,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "blog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"SL.141.region_keys":
+							[
 							],
-							"incomplete_sync": null,
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"markdonw_live_preview_last_run": 1566963016.01,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -617,17 +407,49 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"markdonw_live_preview_last_run": 1566964272.64,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 34.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -644,12 +466,19 @@
 				0,
 				2,
 				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.296284993489,
+			0.33,
+			0.66,
 			1.0
 		],
 		"rows":
@@ -659,6 +488,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -675,7 +508,7 @@
 	"project": "travisjupp.github.io.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -709,15 +542,15 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 249.0,
+	"side_bar_visible": false,
+	"side_bar_width": 148.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
