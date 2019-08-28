@@ -21,6 +21,7 @@ a:hover {
 }
 a .current-page {
     text-decoration: overline;
+    color: #2b2b2b;
     
 }
 h1 {
