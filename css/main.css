@@ -19,6 +19,14 @@ a {
 a:hover {
     text-decoration: underline;
 }
+nav a:hover {
+    text-decoration: none;
+}
+nav ul a {
+    text-decoration: none;
+
+}
+
 nav ul a.current-page {
     text-decoration: overline;
     text-decoration-color: #fc7e60;
